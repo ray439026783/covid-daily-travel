@@ -1,6 +1,5 @@
-,dist,2019,2020
-0,walk,11495,9126
-1,short_drive,10999,8279
-2,med_drive,1752,1584
-3,total_trips,24294,19044
-0,long_drive,48,55
+dist,2019,2020
+walk,11495,9126
+short_drive,10999,8279
+med_drive,1752,1584
+long_drive,48,55
